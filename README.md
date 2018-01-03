@@ -9,5 +9,5 @@ for Binder. This requires a few different build components:
 * `requirements.txt` for installing the python dependencies
 * `postBuild` for forcing matplotlib to build the font cache
 
-Thanks to @m-weigand for giving
+Thanks to [m-weigand](https://github.com/m-weigand) for giving
 [inspiration for this repo](https://github.com/m-weigand/binder-example-latex-mpl/blob/master/index.ipynb)!
