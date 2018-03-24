@@ -1,6 +1,6 @@
 # Using latex with Binder
 
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/latex/master)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/binder-examples/latex/master?filepath=index.ipynb)
 
 This repository demonstrates how to install latex alongside matplotlib
 for Binder. This requires a few different build components:
