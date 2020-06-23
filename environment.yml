@@ -1,7 +1,10 @@
 channels:
     - conda-forge
 dependencies:
-    - matplotlib
-    - jupyterlab>=0.35
+    - python
+    - pip
+    - setuptools
     - pip:
-      - jupyterlab_latex
+      - matplotlib
+      - jupyterlab_latex<1.0
+      - jupyterlab<1.0
