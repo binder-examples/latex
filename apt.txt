@@ -1,7 +1,10 @@
-texlive-latex-base
-texlive-latex-recommended
-texlive-science
-texlive-latex-extra
-texlive-fonts-recommended
 dvipng
 ghostscript
+texlive-fonts-recommended
+texlive-generic-recommended
+texlive-latex-base
+texlive-latex-extra
+texlive-latex-recommended
+texlive-publishers
+texlive-science
+texlive-xetex
