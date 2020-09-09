@@ -6,4 +6,4 @@ python -c "import matplotlib as mpl; mpl.use('Agg'); import pylab as plt; fig, a
 test -e test.png && rm test.png
 
 # install JupyterLab extension
-jupyter labextension install @jupyterlab/latex@0.6.1
+jupyter labextension install @jupyterlab/latex
