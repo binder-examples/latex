@@ -5,6 +5,6 @@ dependencies:
     - pip
     - setuptools
     - matplotlib
-    - jupyterlab<1.0
+    - jupyterlab
     - pip:
-      - jupyterlab_latex<1.0
+      - jupyterlab_latex
